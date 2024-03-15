@@ -1,0 +1,95 @@
+p364_240_mic2-22k|p364|{IH0 T HH AE1 D HH AE1 P AH0 N D T UW1 HH IH1 M}|It had happened to him.|./preprocessed_data/VCTK/ssl/p364-ssl-p364_240_mic2-22k.npy
+p231_320_mic2-22k|p231|{HH AW2 EH1 V ER0 HH IY1 IH1 Z AH0 K OW1 CH AE1 N D HH IY1 R IH0 M EY1 N Z AH0 K OW1 CH AE1 T HH AA1 R T}|However, he is a coach, and he remains a coach at heart.|./preprocessed_data/VCTK/ssl/p231-ssl-p231_320_mic2-22k.npy
+p282_129_mic2-22k|p282|{IH0 T IH1 Z N AA1 T EY1 spn T ER1 N}|It is not a U-turn.|./preprocessed_data/VCTK/ssl/p282-ssl-p282_129_mic2-22k.npy
+p254_015_mic2-22k|p254|{DH AH0 G R IY1 K S Y UW1 Z D T UW1 IH0 M AE1 JH AH0 N DH AH0 T IH0 T W AH0 Z AH0 S AY1 N F ER0 M DH AH0 G AA1 D Z T AH0 F AO0 R T EH1 L W AO1 R AO1 R HH EH1 V IY0 R EY1 N}|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.|./preprocessed_data/VCTK/ssl/p254-ssl-p254_015_mic2-22k.npy
+p228_285_mic2-22k|p228|{DH AH1 S AO1 NG Z ER0 JH AH1 S T S OW1 G IH0 D}|The songs are just so good.|./preprocessed_data/VCTK/ssl/p228-ssl-p228_285_mic2-22k.npy
+p334_307_mic2-22k|p334|{IH0 F DH EY1 D OW1 N T sp DH EY1 K AH0 N IH0 K S P EH1 K T DH EH1 R F AH1 N D IH0 NG T AH0 B IY0 K AH1 T}|If they don't, they can expect their funding to be cut.|./preprocessed_data/VCTK/ssl/p334-ssl-p334_307_mic2-22k.npy
+p287_081_mic2-22k|p287|{AY1 V sp N EH1 V ER0 S IY1 N EH1 N IY0 TH IH2 NG L AY1 K IH0 T}|I've never seen anything like it.|./preprocessed_data/VCTK/ssl/p287-ssl-p287_081_mic2-22k.npy
+p247_083_mic2-22k|p247|{IH0 T sp IH1 Z AH0 JH AA1 B K R IY0 EY1 SH AH0 N S K IY1 M}|It is a job creation scheme.|./preprocessed_data/VCTK/ssl/p247-ssl-p247_083_mic2-22k.npy
+p264_051_mic2-22k|p264|{W IY1 W ER0 L IY1 D IH0 NG B AY1 T UW1 G OW1 L Z}|We were leading by two goals.|./preprocessed_data/VCTK/ssl/p264-ssl-p264_051_mic2-22k.npy
+p335_058_mic2-22k|p335|{L EH1 T S S IY1 DH AE1 T IH1 N K R IY2 S OW1 V ER0 DH IY0 Y IH1 R Z}|Let's see that increase over the years.|./preprocessed_data/VCTK/ssl/p335-ssl-p335_058_mic2-22k.npy
+p236_225_mic2-22k|p236|{DH EH1 R IH1 Z N OW1 K W IH1 K F IH1 K S}|There is no quick fix.|./preprocessed_data/VCTK/ssl/p236-ssl-p236_225_mic2-22k.npy
+p374_353_mic2-22k|p374|{AH0 N D DH AE1 T sp B R IH1 NG Z AH1 S T AH0 DH AH0 P OY1 N T}|And that brings us to the point.|./preprocessed_data/VCTK/ssl/p374-ssl-p374_353_mic2-22k.npy
+p272_076_mic2-22k|p272|{S AW1 N Z L AY1 K DH AH0 S IH1 K S TH S EH1 N S}|Sounds like The Sixth Sense?|./preprocessed_data/VCTK/ssl/p272-ssl-p272_076_mic2-22k.npy
+p271_152_mic2-22k|p271|{DH AH0 P AH0 T IH1 SH AH0 N W AO1 Z F AO1 R M AH0 L IY0 P R IY0 Z EH1 N T AH0 D AE1 T D AW1 N IH0 NG S T R IY1 T Y EH1 S T ER0 D EY2}|The petition was formally presented at Downing Street yesterday.|./preprocessed_data/VCTK/ssl/p271-ssl-p271_152_mic2-22k.npy
+p228_127_mic2-22k|p228|{DH EY1 V G AA1 T T AH0 AH0 K AW1 N T F AO1 R IH0 T}|They've got to account for it.|./preprocessed_data/VCTK/ssl/p228-ssl-p228_127_mic2-22k.npy
+p276_223_mic2-22k|p276|{IH1 T S B IH1 N AH0 HH AH1 M B AH0 L IH0 NG Y IH1 R}|It's been a humbling year.|./preprocessed_data/VCTK/ssl/p276-ssl-p276_223_mic2-22k.npy
+p262_248_mic2-22k|p262|{DH AH0 P R AH0 JH EH1 K T HH AH0 Z AO0 L R EH1 D IY0 S IH0 K Y UH1 R D DH AH0 S AH0 P AO1 R T AH1 V S ER1 SH AO1 N K AA1 N ER0 IY0}|The project has already secured the support of Sir Sean Connery.|./preprocessed_data/VCTK/ssl/p262-ssl-p262_248_mic2-22k.npy
+p314_086_mic2-22k|p314|{DH AH0 T IY1 M DH IH1 S Y IH1 R IH1 Z G OW1 IH0 NG P L EY1 S IH0 Z}|The team this year is going places.|./preprocessed_data/VCTK/ssl/p314-ssl-p314_086_mic2-22k.npy
+p279_088_mic2-22k|p279|{DH AH0 SH EH1 R HH OW2 L D ER0 Z W AH0 L V OW1 T T AH0 W AY1 N D AH1 P sp DH AH0 K AH1 M P AH0 N IY0 AA1 N F R AY1 D EY2 M AO1 R N IH0 NG}|The shareholders will vote to wind up the company on Friday morning.|./preprocessed_data/VCTK/ssl/p279-ssl-p279_088_mic2-22k.npy
+p272_018_mic2-22k|p272|{EH1 R AH0 S T AA2 T AH0 L TH AO1 T DH AH0 T DH AH0 R EY1 N B OW2 W AH0 Z K AO1 Z D B AY1 R IH0 F L EH1 K SH AH0 N AH0 V DH AH0 S AH1 N Z R EY1 Z B AY1 DH AH0 R EY1 N}|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.|./preprocessed_data/VCTK/ssl/p272-ssl-p272_018_mic2-22k.npy
+p256_098_mic2-22k|p256|{SH IY1 T OW1 L D DH AH0 HH EH1 R AH0 L D}|She told The Herald.|./preprocessed_data/VCTK/ssl/p256-ssl-p256_098_mic2-22k.npy
+p261_218_mic2-22k|p261|{AO1 L W IH1 L B IY1 R IH0 V IY1 L D IH1 N D UW1 K AO1 R S}|All will be revealed in due course.|./preprocessed_data/VCTK/ssl/p261-ssl-p261_218_mic2-22k.npy
+p265_063_mic2-22k|p265|{IH1 T SH UH1 D AH0 N T K AH1 M AE1 Z AH0 S AH0 P R AY1 Z sp B AH1 T IH1 T D AH1 Z}|IT shouldn't come as a surprise, but it does.|./preprocessed_data/VCTK/ssl/p265-ssl-p265_063_mic2-22k.npy
+p314_042_mic2-22k|p314|{IH1 T IH0 Z AO1 L AH0 B AW1 T P IY1 P AH0 L B IY1 IH0 NG AH0 S AO1 L T IH0 D sp AH0 B Y UW1 Z D}|It is all about people being assaulted, abused.|./preprocessed_data/VCTK/ssl/p314-ssl-p314_042_mic2-22k.npy
+p241_188_mic2-22k|p241|{AY1 W IH1 SH AY1 K UH1 D S EY1 S AH1 M TH IH0 NG}|I wish I could say something.|./preprocessed_data/VCTK/ssl/p241-ssl-p241_188_mic2-22k.npy
+p283_111_mic2-22k|p283|{IH1 T S G UH1 D T AH0 HH AE1 V AH0 V OY1 S}|It's good to have a voice.|./preprocessed_data/VCTK/ssl/p283-ssl-p283_111_mic2-22k.npy
+p275_006_mic2-22k|p275|{HH W EH1 N DH AH0 S AH1 N L AY2 T S T R AY1 K S R EY1 N D R AA2 P S IH0 N DH AH0 EH1 R sp DH EY1 AE1 K T EH1 Z AH0 P R IH1 Z AH0 M sp AH0 N D F AO1 R M AH0 R EY1 N B OW2}|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.|./preprocessed_data/VCTK/ssl/p275-ssl-p275_006_mic2-22k.npy
+p228_092_mic2-22k|p228|{T AH0 D EY1 AY1 K UH1 D AH0 N R AH1 N AA1 N IH0 T}|Today I couldn't run on it.|./preprocessed_data/VCTK/ssl/p228-ssl-p228_092_mic2-22k.npy
+p295_343_mic2-22k|p295|{DH IY0 AE1 T M AH0 S F IH2 R IH1 Z B IH1 Z N IH0 S L AY2 K}|The atmosphere is businesslike.|./preprocessed_data/VCTK/ssl/p295-ssl-p295_343_mic2-22k.npy
+p228_187_mic2-22k|p228|{DH EY1 W AH0 L R AH1 N AH0 M AY1 L}|They will run a mile.|./preprocessed_data/VCTK/ssl/p228-ssl-p228_187_mic2-22k.npy
+p294_317_mic2-22k|p294|{IH1 T D IH1 D AH0 N P UH1 T M IY1 AO1 F}|It didn't put me off.|./preprocessed_data/VCTK/ssl/p294-ssl-p294_317_mic2-22k.npy
+p231_445_mic2-22k|p231|{IH1 T S AW1 N D AH0 D L AY1 K AH0 B AA1 M}|It sounded like a bomb.|./preprocessed_data/VCTK/ssl/p231-ssl-p231_445_mic2-22k.npy
+p272_086_mic2-22k|p272|{T UW0 D EY1 SH IY1 HH AH0 Z B IH1 N R IY0 L IY1 S T}|Today she has been released.|./preprocessed_data/VCTK/ssl/p272-ssl-p272_086_mic2-22k.npy
+p255_210_mic2-22k|p255|{IH0 T W AH0 Z W ER1 TH AH0 F OW1 T AH0 G R AE2 F}|It was worth a photograph.|./preprocessed_data/VCTK/ssl/p255-ssl-p255_210_mic2-22k.npy
+p229_060_mic2-22k|p229|{AH0 N D AH0 F IH1 L M M EY1 K ER0 W AH1 Z B AO1 R N}|And a film maker was born.|./preprocessed_data/VCTK/ssl/p229-ssl-p229_060_mic2-22k.npy
+p260_232_mic2-22k|p260|{DH AH0 sp HH OW1 M AO1 F AH0 S W UH1 D N AA1 T R IY0 L IY1 S EH1 N IY0 F ER1 DH ER0 D IY1 T EY0 L Z AH0 B AW1 T DH AH0 G R UW1 P}|The Home Office would not release any further details about the group.|./preprocessed_data/VCTK/ssl/p260-ssl-p260_232_mic2-22k.npy
+p245_025_mic2-22k|p245|{JH AA1 N S AH0 N W AH0 Z P R IH1 T IY0 L OW1}|Johnson was pretty low.|./preprocessed_data/VCTK/ssl/p245-ssl-p245_025_mic2-22k.npy
+p333_185_mic2-22k|p333|{DH IH1 S EH1 R IY0 AH0 IH0 Z P ER1 F IH2 K T F ER0 CH IH1 L D R AH0 N}|This area is perfect for children.|./preprocessed_data/VCTK/ssl/p333-ssl-p333_185_mic2-22k.npy
+p244_242_mic2-22k|p244|{HH IY1 sp IH1 Z AH0 M AE1 N AH0 V DH AH1 P IY1 P AH0 L}|He is a man of the people.|./preprocessed_data/VCTK/ssl/p244-ssl-p244_242_mic2-22k.npy
+p376_187_mic2-22k|p376|{DH EY1 HH AE1 V IH0 N AH1 F IH0 N T R UW1 ZH AH0 N AE1 T DH AH0 T AY1 M}|They have enough intrusion at the time.|./preprocessed_data/VCTK/ssl/p376-ssl-p376_187_mic2-22k.npy
+p239_156_mic2-22k|p239|{IH1 T IH0 Z AH0 G IH0 D L AY1 F S T AY2 L}|It is a good lifestyle.|./preprocessed_data/VCTK/ssl/p239-ssl-p239_156_mic2-22k.npy
+p307_037_mic2-22k|p307|{HH IY1 R IY0 L IY1 S T AH0 HH AE1 F spn S OW1 L OW2 AE1 L B AH0 M Z}|He released a half-dozen solo albums.|./preprocessed_data/VCTK/ssl/p307-ssl-p307_037_mic2-22k.npy
+p305_185_mic2-22k|p305|{AY1 sp AE1 M N AA1 T IY1 V IH0 N TH IH1 NG K IH0 NG AH0 B AW1 T DH AE1 T}|I am not even thinking about that.|./preprocessed_data/VCTK/ssl/p305-ssl-p305_185_mic2-22k.npy
+p272_081_mic2-22k|p272|{IH0 T W AH0 Z M AE1 JH IH0 K}|It was magic.|./preprocessed_data/VCTK/ssl/p272-ssl-p272_081_mic2-22k.npy
+p302_297_mic2-22k|p302|{AH0 M T R AY1 NG T AH0 S T EY1 OW1 P AH0 N AA1 N DH AE1 T}|I'm trying to stay open on that.|./preprocessed_data/VCTK/ssl/p302-ssl-p302_297_mic2-22k.npy
+p275_320_mic2-22k|p275|{W IY1 ER0 IH0 N DH AH0 EH1 N D sp G EY1 M}|We are in the end game.|./preprocessed_data/VCTK/ssl/p275-ssl-p275_320_mic2-22k.npy
+p239_231_mic2-22k|p239|{DH EH1 N W IY1 W AH0 L F EY1 S DH AH0 D EY1 N IH0 SH CH AE1 M P IY0 AH0 N Z}|Then we will face the Danish champions.|./preprocessed_data/VCTK/ssl/p239-ssl-p239_231_mic2-22k.npy
+p268_301_mic2-22k|p268|{IH1 T W AH0 Z OW1 N L IY0 L EY1 T ER0 DH AH0 T DH IY0 K AH0 N D IH1 SH AH0 N W AH0 Z D AY2 AH0 G N OW1 S T}|It was only later that the condition was diagnosed.|./preprocessed_data/VCTK/ssl/p268-ssl-p268_301_mic2-22k.npy
+p336_088_mic2-22k|p336|{DH EY1 F EY1 L D T IH0 R IY1 CH AH0 G R IY1 M AH0 N T Y EH1 S T ER0 D EY2}|They failed to reach agreement yesterday.|./preprocessed_data/VCTK/ssl/p336-ssl-p336_088_mic2-22k.npy
+p278_255_mic2-22k|p278|{DH EY1 M EY1 D S AH1 CH D IH0 S IH1 ZH AH0 N Z sp IH0 N L AH1 N D AH0 N}|They made such decisions in London.|./preprocessed_data/VCTK/ssl/p278-ssl-p278_255_mic2-22k.npy
+p361_132_mic2-22k|p361|{DH AE1 T G AA1 T M IY1 AW1 T}|That got me out.|./preprocessed_data/VCTK/ssl/p361-ssl-p361_132_mic2-22k.npy
+p307_146_mic2-22k|p307|{Y UW1 HH OW1 P HH IY1 P R IH0 V EY1 L Z}|You hope he prevails.|./preprocessed_data/VCTK/ssl/p307-ssl-p307_146_mic2-22k.npy
+p244_147_mic2-22k|p244|{DH EY1 K UH1 D sp N AA1 T IH0 G N AO1 R DH AH0 W IH1 L AH1 V P AA1 R L AH0 M AH0 N T HH IY1 K L EY1 M D}|They could not ignore the will of parliament, he claimed.|./preprocessed_data/VCTK/ssl/p244-ssl-p244_147_mic2-22k.npy
+p294_283_mic2-22k|p294|{DH IH1 S IH0 Z AA1 R sp AH0 N F IH1 N IH0 SH T B IH1 Z N AH0 S}|This is our unfinished business.|./preprocessed_data/VCTK/ssl/p294-ssl-p294_283_mic2-22k.npy
+p283_300_mic2-22k|p283|{AY1 W UH1 D HH AE1 V DH AH0 HH AE1 M ER0 IH0 N DH IY0 K R AW1 D}|I would have the hammer in the crowd.|./preprocessed_data/VCTK/ssl/p283-ssl-p283_300_mic2-22k.npy
+p239_079_mic2-22k|p239|{AY1 K AH0 N AH2 N D ER0 S T AE1 N D DH AH0 F R AH0 S T R EY1 SH AH0 N Z AH1 V AW1 R F AE1 N Z}|I can understand the frustrations of our fans.|./preprocessed_data/VCTK/ssl/p239-ssl-p239_079_mic2-22k.npy
+p264_009_mic2-22k|p264|{DH EH1 R sp IH1 Z sp AH0 K AO1 R D IH0 NG T AH0 L EH1 JH AH0 N D sp AH0 B OY1 L IH0 NG P AA1 T AH0 V G OW1 L D AE1 T W AH1 N EH1 N D}|There is , according to legend, a boiling pot of gold at one end.|./preprocessed_data/VCTK/ssl/p264-ssl-p264_009_mic2-22k.npy
+p307_348_mic2-22k|p307|{HH IY1 D IH1 D N AA1 T AH0 P OW1 Z DH AH1 D IH0 V AO1 R S}|He did not oppose the divorce.|./preprocessed_data/VCTK/ssl/p307-ssl-p307_348_mic2-22k.npy
+p304_308_mic2-22k|p304|{W IY1 sp ER0 sp DH AH1 sp G EY1 T W EY2 T IH0 JH AH1 S T AH0 S}|We are the gateway to justice.|./preprocessed_data/VCTK/ssl/p304-ssl-p304_308_mic2-22k.npy
+p281_056_mic2-22k|p281|{N AH1 N HH AE1 Z EH1 V ER0 B IH1 N F AW1 N D}|None has ever been found.|./preprocessed_data/VCTK/ssl/p281-ssl-p281_056_mic2-22k.npy
+p267_158_mic2-22k|p267|{W IY1 sp W ER0 G IH1 V IH0 N AH0 W AO1 R M AH0 N D F R EH1 N D L IY0 R IH0 S EH1 P SH AH0 N}|We were given a warm and friendly reception.|./preprocessed_data/VCTK/ssl/p267-ssl-p267_158_mic2-22k.npy
+p300_169_mic2-22k|p300|{HH UW1 D UW1 DH IY1 Z P IY1 P AH0 L TH IH1 NG K DH EY1 AA1 R}|Who do these people think they are?|./preprocessed_data/VCTK/ssl/p300-ssl-p300_169_mic2-22k.npy
+p276_177_mic2-22k|p276|{DH EY1 IH0 G Z IH1 S T IH1 N N EY1 M AH0 L OW1 N}|They exist in name alone.|./preprocessed_data/VCTK/ssl/p276-ssl-p276_177_mic2-22k.npy
+p228_245_mic2-22k|p228|{IH1 T IH1 Z AH0 P AA1 L AH0 S IY0 sp W IH1 CH HH AE1 Z DH AH0 F UH1 L S AH0 P AO1 R T AH0 V DH AH0 M IH1 N IH0 S T ER0}|It is a policy which has the full support of the minister.|./preprocessed_data/VCTK/ssl/p228-ssl-p228_245_mic2-22k.npy
+p300_303_mic2-22k|p300|{AY1 M W AH1 N D ER0 IH0 NG W AH1 T Y UW1 F IY1 L AH0 B AW1 T DH IY0 Y AH1 NG G AH0 S T}|I'm wondering what you feel about the youngest.|./preprocessed_data/VCTK/ssl/p300-ssl-p300_303_mic2-22k.npy
+p326_031_mic2-22k|p326|{Y UW0 N AY1 T IH0 D W ER0 IH0 N K AH0 N T R OW1 L W IH0 DH AW1 T AO1 L W EY2 Z B IY1 IH0 NG D AA1 M AH0 N AH0 N T}|United were in control without always being dominant.|./preprocessed_data/VCTK/ssl/p326-ssl-p326_031_mic2-22k.npy
+p361_288_mic2-22k|p361|{AY1 D IH1 D N AA1 T TH IH1 NG K IH1 T W AH0 Z V EH1 R IY0 P R AA1 P ER0}|I did not think it was very proper.|./preprocessed_data/VCTK/ssl/p361-ssl-p361_288_mic2-22k.npy
+p286_145_mic2-22k|p286|{T AY1 G ER0 IH1 Z N AA1 T DH AH0 N AO1 R M}|Tiger is not the norm.|./preprocessed_data/VCTK/ssl/p286-ssl-p286_145_mic2-22k.npy
+p234_071_mic2-22k|p234|{SH IY1 D IH1 D DH AE1 T F ER0 DH AH1 R EH1 S T AH0 V HH ER0 L AY1 F}|She did that for the rest of her life.|./preprocessed_data/VCTK/ssl/p234-ssl-p234_071_mic2-22k.npy
+p263_296_mic2-22k|p263|{DH AH0 D IH0 S IH1 ZH AH0 N W AH0 Z AH0 N AW1 N S T AE1 T IH0 T S AE1 N Y UW0 AH0 L K AA1 N F ER0 AH0 N S IH0 N D AH1 N F ER1 M L AY2 N}|The decision was announced at its annual conference in Dunfermline.|./preprocessed_data/VCTK/ssl/p263-ssl-p263_296_mic2-22k.npy
+p323_228_mic2-22k|p323|{SH IY1 B IY0 K EY1 M EY1 HH EH1 R OW0 AH0 N AH1 V M AY1 CH AY1 L D HH UH2 D}|She became a heroine of my childhood.|./preprocessed_data/VCTK/ssl/p323-ssl-p323_228_mic2-22k.npy
+p333_080_mic2-22k|p333|{B AH1 T DH AH0 T R AE1 JH AH0 D IY0 D IH1 D N AA1 T S T AA1 P DH EH1 R}|But the tragedy did not stop there.|./preprocessed_data/VCTK/ssl/p333-ssl-p333_080_mic2-22k.npy
+p226_268_mic2-22k|p226|{DH AE1 T D IH0 S IH1 ZH AH0 N IH0 Z F R ER0 DH AH1 B R IH1 T IH0 SH P AA1 R L AH0 M AH0 N T AH0 N D P IY1 P AH0 L}|That decision is for the British Parliament and people.|./preprocessed_data/VCTK/ssl/p226-ssl-p226_268_mic2-22k.npy
+p240_047_mic2-22k|p240|{IH1 T IH1 Z S OW1 S AE1 D}|It is so sad.|./preprocessed_data/VCTK/ssl/p240-ssl-p240_047_mic2-22k.npy
+p250_207_mic2-22k|p250|{Y UW1 K UH1 D F IY1 L DH IY0 HH IY1 T}|You could feel the heat.|./preprocessed_data/VCTK/ssl/p250-ssl-p250_207_mic2-22k.npy
+p273_176_mic2-22k|p273|{N IY1 DH ER0 S AY1 D W UH1 D R IH0 V IY1 L DH AH1 D IY1 T EY0 L Z AH1 V DH IY0 AO1 F ER0}|Neither side would reveal the details of the offer.|./preprocessed_data/VCTK/ssl/p273-ssl-p273_176_mic2-22k.npy
+p316_147_mic2-22k|p316|{AH0 N D F R AE1 NG K L IY0 sp IH0 T S B IH0 N AH0 W AY1 L}|And frankly, it's been a while.|./preprocessed_data/VCTK/ssl/p316-ssl-p316_147_mic2-22k.npy
+p265_047_mic2-22k|p265|{IH1 T IH1 Z Y UW0 N IY1 K}|It is unique.|./preprocessed_data/VCTK/ssl/p265-ssl-p265_047_mic2-22k.npy
+p336_353_mic2-22k|p336|{S AH1 M T AY2 M Z Y UW1 G EH1 T DH EH1 M S AH1 M T AY2 M Z Y UW1 D OW1 N T}|Sometimes you get them, sometimes you don't.|./preprocessed_data/VCTK/ssl/p336-ssl-p336_353_mic2-22k.npy
+p230_376_mic2-22k|p230|{DH IH1 S HH AE1 Z AH0 N T HH AE1 P AH0 N D IH1 N AH0 V AE1 K Y UW0 M}|This hasn't happened in a vacuum.|./preprocessed_data/VCTK/ssl/p230-ssl-p230_376_mic2-22k.npy
+p308_209_mic2-22k|p308|{DH EH1 R IH0 Z G R EY1 T P AH0 T EH1 N CH AH0 L AA1 N DH IH0 S R IH1 V ER0}|There is great potential on this river.|./preprocessed_data/VCTK/ssl/p308-ssl-p308_209_mic2-22k.npy
+p250_442_mic2-22k|p250|{W IY1 HH AE1 V N AA1 T Y EH1 T R IH0 S IY1 V D sp AH0 L EH1 T ER0 F ER0 M DH IY0 AY1 R IH0 SH}|We have not yet received a letter from the Irish.|./preprocessed_data/VCTK/ssl/p250-ssl-p250_442_mic2-22k.npy
+p260_037_mic2-22k|p260|{IH1 T S AH0 F AE1 K T}|It's a fact.|./preprocessed_data/VCTK/ssl/p260-ssl-p260_037_mic2-22k.npy
+p299_345_mic2-22k|p299|{W IH1 R V EH1 R IY0 IH0 K S AY1 T IH0 D AH0 N D CH AE1 L AH0 N JH D B AY1 DH AH1 P R AA1 JH EH0 K T}|We're very excited and challenged by the project.|./preprocessed_data/VCTK/ssl/p299-ssl-p299_345_mic2-22k.npy
+p269_218_mic2-22k|p269|{AH0 G R AE1 M P IY0 AH0 N P AH0 L IY1 S S P OW1 K S M AH0 N S EH1 D}|A Grampian Police spokesman said.|./preprocessed_data/VCTK/ssl/p269-ssl-p269_218_mic2-22k.npy
+p306_014_mic2-22k|p306|{T UW1 DH IY0 HH IY1 B R UW2 Z sp IH1 T W AH1 Z EY1 T OW1 K AH0 N sp DH AE1 T sp DH EH1 R W UH1 D B IY1 N OW1 sp M AO1 R Y UW2 N AH0 V ER1 S AH0 L F L AH1 D Z}|To the Hebrews it was a token that there would be no more universal floods.|./preprocessed_data/VCTK/ssl/p306-ssl-p306_014_mic2-22k.npy
+p271_292_mic2-22k|p271|{IH1 T S AH0 R EH1 K ER0 D L EY1 B AH0 L N AA1 T AH0 F AO1 R M AH0 V M Y UW1 Z IH0 K}|It's a record label, not a form of music.|./preprocessed_data/VCTK/ssl/p271-ssl-p271_292_mic2-22k.npy
+p247_225_mic2-22k|p247|{AY1 AE1 M K AH0 N S IH1 D ER0 D AH0 T IY1 N EY2 JH ER0}|I am considered a teenager.|./preprocessed_data/VCTK/ssl/p247-ssl-p247_225_mic2-22k.npy
+p294_094_mic2-22k|p294|{IH0 T SH UH1 D B IY1 EY1 K AH0 N D IH1 SH AH0 N AH0 V IH0 M P L OY1 M AH0 N T}|It should be a condition of employment.|./preprocessed_data/VCTK/ssl/p294-ssl-p294_094_mic2-22k.npy
+p269_031_mic2-22k|p269|{IH1 Z DH IH1 S AE1 K Y ER0 AH0 T}|Is this accurate?|./preprocessed_data/VCTK/ssl/p269-ssl-p269_031_mic2-22k.npy
+p275_116_mic2-22k|p275|{IH1 T S N AA1 T F EH1 R}|It's not fair.|./preprocessed_data/VCTK/ssl/p275-ssl-p275_116_mic2-22k.npy
+p265_006_mic2-22k|p265|{HH W EH1 N DH IY0 S AH1 N L AY2 T S T R AY1 K S sp R EY1 N D R AA2 P S IH1 N DH IY0 EH1 R sp DH EY1 sp AE1 K T AE1 Z AH0 sp P R IH1 Z AH0 M sp AH0 N D F AO1 R M AH0 R EY1 N B OW2}|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.|./preprocessed_data/VCTK/ssl/p265-ssl-p265_006_mic2-22k.npy
+p285_072_mic2-22k|p285|{ER1 V AY0 N S EH1 D spn R AE1 F ER0 T IY0 W AH0 Z N AW1 IH0 N G UH1 D S P IH1 R IH0 T S}|Mr Irvine said Mr Rafferty was now in good spirits.|./preprocessed_data/VCTK/ssl/p285-ssl-p285_072_mic2-22k.npy
+p270_167_mic2-22k|p270|{W IY1 D IH0 D W AH1 T W IY1 HH AE1 D T AH0 D UW1}|We did what we had to do.|./preprocessed_data/VCTK/ssl/p270-ssl-p270_167_mic2-22k.npy
+p360_397_mic2-22k|p360|{IH0 T sp IH1 Z AH0 R IH0 L IY1 F}|It is a relief.|./preprocessed_data/VCTK/ssl/p360-ssl-p360_397_mic2-22k.npy

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python3 train.py -p config/VCTK/preprocess.yaml -m config/VCTK/model.yaml -t config/VCTK/train.yaml
