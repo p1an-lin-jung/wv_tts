@@ -1,6 +1,6 @@
-# wav2vec-TTS - PyTorch Implementation
+# wv-TTS - PyTorch Implementation
 
-This is a PyTorch implementation of Wav2Vec-TTS
+This is a PyTorch implementation of wv-TTS
 
 ![](./model/model.png)
 
